@@ -1,0 +1,21 @@
+.body {
+    background-color: #dadde4;
+    color: rgb(245, 73, 73);
+    padding: 80px;
+   
+    text-align: center;
+}
+
+.p{
+    font-family: Calibri;
+    color:#da2121
+}
+.h1{
+    font-family: Times New Roman;
+    color:#e026b1
+
+}
+.p2{
+    font-family: Arial;
+    color:#3aa55d
+}
